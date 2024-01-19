@@ -1,0 +1,21 @@
+name: mqtt5_universal_client
+description: "Simplified version of the Mqtt5 client"
+version: 1.0.0
+homepage: https://performans.com
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mqtt5_client: ^4.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+
+# flutter pub publish --dry-run
