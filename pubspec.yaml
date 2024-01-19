@@ -1,7 +1,8 @@
 name: mqtt5_universal_client
 description: "Simplified version of the Mqtt5 client"
 version: 1.0.0
-homepage: https://performans.com
+homepage: https://github.com/Performans-Dev/mqtt5_universal_client
+
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
